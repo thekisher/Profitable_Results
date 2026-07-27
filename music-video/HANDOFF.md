@@ -74,18 +74,28 @@ Also swap "cel-shaded crime-comic" for `gritty urban crime graphic novel illustr
 
 **2. Seeds:** `3318` produced correct results twice. `7412` produced the chibi failure. Start from `3318`.
 
-**Working Cairos prompt:**
+**Working Cairos prompt.** Corrected against reference photos of the artist —
+an earlier version said "long dark hair," which was wrong. He is lean and wiry
+with short dark wavy hair; the narrow silhouette is what sells the macro shots.
 ```
 Gritty urban crime graphic novel illustration, screen-printed video game cover
 art. Full-body standing portrait of an adult male rapper, realistic athletic
-human proportions, eight heads tall, tall and lean, NOT chibi, NOT cartoon
-mascot proportions, NOT big-headed. Mid-20s, tan skin, long dark hair, black
-aviator sunglasses, open patterned silk shirt, heavy gold chains, black jeans,
-white sneakers. Confident smirk, three-quarter hero stance. Heavy black ink
-outlines, flat saturated colour blocking, two shade steps only, no gradient,
-halftone texture. Flat bone-cream background. Sunset orange, gold, deep teal
-shadows, near-black ink.
+human proportions, eight heads tall, lean and wiry build, narrow shoulders,
+NOT chibi, NOT cartoon mascot proportions, NOT big-headed, NOT muscular.
+Late 20s, olive skin, angular narrow face with sharp cheekbones, strong dark
+eyebrows, short dark wavy hair, thin moustache and light stubble. Heavy gold
+chains with a gold pendant, gold rings. Open patterned silk shirt, black jeans,
+white sneakers. Confident half-lidded stare, slight smirk, three-quarter hero
+stance. Heavy black ink outlines, flat saturated colour blocking, two shade
+steps only, no gradient, halftone texture. Flat bone-cream background.
+Sunset orange, gold, deep teal shadows, near-black ink.
 ```
+
+**The artist has reference photos of himself and should upload them directly**
+into whichever tool does character lock (Dzine, Kling Elements, OpenArt). A
+likeness carried by reference image will always beat one carried by text
+description. The text prompt above is the fallback and the style anchor, not
+the primary means of getting his face.
 
 **Working macro hero shot (this one came out genuinely usable):**
 ```

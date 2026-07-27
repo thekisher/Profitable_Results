@@ -36,15 +36,23 @@ Palette: `#14110F` ink · `#EDE6D8` bone · `#E8873A` sunset · `#B8332A` blood 
 
 Bake both as four-view turnarounds (front / three-quarter / profile / back) before anything else is generated.
 
-**CAIROS — lead**
+**CAIROS — lead.** Based on reference photos of the artist. Lean and wiry, not
+bulky — the silhouette is narrow-shouldered and tall-reading, which is what makes
+the macro shots work.
 ```
-Cel-shaded crime-comic character turnaround, video game cover art style.
-Male rapper, mid-20s, tan skin, long dark hair, black aviator sunglasses,
-open patterned silk shirt, heavy gold chains and gold bracelets, white sneakers.
-Confident open-mouth grin. Heavy black ink outlines, flat saturated colour
-blocking, two shade steps, no gradient. Neutral bone background.
+Gritty urban crime graphic novel illustration, screen-printed video game cover
+art. Full-body character turnaround of an adult male rapper, realistic athletic
+human proportions, eight heads tall, lean and wiry build, narrow shoulders,
+NOT chibi, NOT cartoon mascot proportions, NOT big-headed, NOT muscular.
+Late 20s, olive skin, angular narrow face with sharp cheekbones, strong dark
+eyebrows, short dark wavy hair, thin moustache and light stubble. Heavy gold
+chains with a gold pendant, gold rings. Confident half-lidded stare, slight
+smirk. Heavy black ink outlines, flat saturated colour blocking, two shade
+steps, no gradient, halftone texture. Flat bone-cream background.
 Palette: #E8873A / #D9A441 / #1F4E4A / #14110F
 ```
+Wardrobe varies by act — cream shearling-collar overcoat for the cold open,
+black hooded jacket for the chorus, open silk shirt for the boulevard.
 
 **DJ KISS — second macro, enters at the bridge**
 ```
